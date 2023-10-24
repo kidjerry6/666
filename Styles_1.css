@@ -1,0 +1,156 @@
+.page {
+  padding: 2.222vw 1.458vw 4.028vw;
+  background-color: #ffffff;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.space-x-89 > *:not(:first-child) {
+  margin-left: 6.181vw;
+}
+.image {
+  width: 18.889vw;
+  height: 12.222vw;
+}
+.image_2 {
+  width: 29.861vw;
+  height: 3.819vw;
+}
+.group {
+  margin-right: 0.764vw;
+}
+.section {
+  flex: 1 1 10vw;
+  background-color: #003049;
+  width: 10vw;
+  height: 20.972vw;
+}
+.section_2 {
+  flex: 1 1 10vw;
+  background-color: #6e8a4c;
+  width: 10vw;
+  height: 20.972vw;
+}
+.section_3 {
+  flex: 1 1 10vw;
+  background-color: #d62828;
+  width: 10vw;
+  height: 20.972vw;
+}
+.section_4 {
+  flex: 1 1 10vw;
+  background-color: #cea259;
+  width: 10vw;
+  height: 20.972vw;
+}
+.section_5 {
+  flex: 1 1 10vw;
+  background-color: #fcbf49fa;
+  width: 10.069vw;
+  height: 20.972vw;
+}
+.section_6 {
+  flex: 1 1 10vw;
+  background-color: #eae2b7;
+  width: 10vw;
+  height: 20.972vw;
+}
+.group_2 {
+  margin-top: 0.278vw;
+}
+.space-y-20 > *:not(:first-child) {
+  margin-top: 1.389vw;
+}
+.group_3 {
+  padding: 0 0.139vw;
+}
+.space-x-88 > *:not(:first-child) {
+  margin-left: 6.111vw;
+}
+.image_3 {
+  margin-top: 1.111vw;
+}
+.space-y-6 > *:not(:first-child) {
+  margin-top: 0.417vw;
+}
+.group_4 {
+  padding-left: 10.278vw;
+  padding-right: 0.833vw;
+}
+.font_1 {
+  font-size: 2.083vw;
+  font-family: Inter;
+  line-height: 1.563vw;
+  font-weight: 700;
+  color: #000000;
+}
+.text {
+  line-height: 1.528vw;
+}
+.space-x-150 > *:not(:first-child) {
+  margin-left: 10.417vw;
+}
+.group_5 {
+  margin-top: 1.389vw;
+  padding: 0 0.208vw;
+}
+.space-y-54 > *:not(:first-child) {
+  margin-top: 3.75vw;
+}
+.space-x-258 > *:not(:first-child) {
+  margin-left: 17.917vw;
+}
+.font_3 {
+  font-size: 2.083vw;
+  font-family: Inter;
+  line-height: 2.5vw;
+  font-weight: 700;
+  color: #000000;
+}
+.font_4 {
+  font-size: 2.083vw;
+  font-family: Inter;
+  line-height: 2.5vw;
+  color: #000000;
+}
+.group_6 {
+  margin-top: 2.778vw;
+}
+.font_2 {
+  font-size: 2.083vw;
+  font-family: Inter;
+  line-height: 1.563vw;
+  color: #000000;
+}
+.text_2 {
+  margin-left: 0.139vw;
+  line-height: 1.597vw;
+}
+.image_4 {
+  width: 22.153vw;
+  height: 4.931vw;
+}
+.group_7 {
+  padding: 0 0.278vw;
+}
+.space-x-72 > *:not(:first-child) {
+  margin-left: 5vw;
+}
+.group_8 {
+  margin-right: 0.556vw;
+}
+.text_3 {
+  margin-left: 0.139vw;
+  line-height: 1.528vw;
+}
+.space-x-46 > *:not(:first-child) {
+  margin-left: 3.194vw;
+}
+.group_9 {
+  margin-right: 0.556vw;
+}
+.text_4 {
+  margin-left: 0.139vw;
+  line-height: 1.528vw;
+}

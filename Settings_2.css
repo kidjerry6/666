@@ -1,0 +1,134 @@
+body{
+	background-image: url('../images/556a0d72d4a12d33b5ef3044e581832e.png');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.page {
+  background-color: #d5d5d5;
+  height: 100%;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.section {
+  padding: 14.186vw 0 3.721vw;
+ 
+}
+.space-y-151 > *:not(:first-child) {
+  margin-top: 35.116vw;
+}
+.group {
+  /* padding: 0 2.326vw; */
+}
+.space-y-49 > *:not(:first-child) {
+  margin-top:23vw;
+}
+.image {
+  width: 34.651vw;
+  height: 34.651vw;
+}
+.section_2 {
+  padding: 6.512vw 0.465vw 0;
+  background-color: #eae2b7;
+}
+.space-y-19 > *:not(:first-child) {
+  margin-top: 4.419vw;
+}
+.group_2 {
+  padding: 0 4.419vw;
+}
+.font_1 {
+  font-size: 5.814vw;
+  font-family: Inter;
+  line-height: 4.302vw;
+  font-weight: 700;
+  color: #000000;
+}
+.font_2 {
+  font-size: 4.651vw;
+  font-family: Inter;
+  line-height: 4.302vw;
+  color: #000000;
+}
+.text {
+  line-height: 4.419vw;
+}
+.group_3 {
+  padding-left: 2.326vw;
+}
+.space-x-6 > *:not(:first-child) {
+  margin-left: 1.395vw;
+}
+.font_3 {
+  font-size: 4.651vw;
+  font-family: Inter;
+  line-height: 3.488vw;
+  color: #000000;
+}
+.text_2 {
+  margin-left: 23.721vw;
+  line-height: 5.465vw;
+}
+.text_3 {
+  line-height: 3.372vw;
+}
+.group_4 {
+  padding: 0.93vw 13.953vw 0;
+}
+.pos {
+  position: absolute;
+  left: 14.07vw;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.group_5 {
+  padding-left: 10.698vw;
+}
+.space-x-8 > *:not(:first-child) {
+  margin-left: 1.86vw;
+}
+.text_4 {
+  line-height: 4.535vw;
+}
+.text_5 {
+  line-height: 4.535vw;
+}
+.group_6 {
+  padding-left: 11.163vw;
+  padding-right: 2.791vw;
+}
+.text_6 {
+  color: #000000;
+  font-size: 2.791vw;
+  font-family: Inter;
+  line-height: 2.674vw;
+}
+.group_7 {
+  width: 87.326vw;
+}
+.space-x-12 > *:not(:first-child) {
+  margin-left: 2.791vw;
+}
+.text_7 {
+  line-height: 4.535vw;
+}
+.text_8 {
+  margin-top: 1.395vw;
+  color: #000000;
+  font-size: 3.488vw;
+  font-family: Inter;
+  line-height: 4.186vw;
+}
+.image_2 {
+  width: 100vw;
+  height: 12.791vw;
+}
+.nav{
+  font-size: 0px;
+  height: 10vh;
+}
+.nav img{
+width: 20%;
+height: 100%;
+
+}

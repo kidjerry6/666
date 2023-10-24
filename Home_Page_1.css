@@ -1,0 +1,137 @@
+body{
+	background-image: url('../images/bg4.png');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.page {
+
+  height: 100%;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+a{
+  text-decoration: none;
+}
+.section {
+  margin-left: -123.488vw;
+  padding: 11.628vw 27.907vw 25.814vw;
+
+  width: 388.372vw;
+}
+.space-x-16 > *:not(:first-child) {
+  margin-left: 3.721vw;
+}
+.image_2 {
+  width: 99.07vw;
+  height: 58.372vw;
+}
+.image_3 {
+  width: 85.581vw;
+  height: 58.372vw;
+}
+.image {
+  width: 87.674vw;
+  height: 58.605vw;
+}
+.image_4 {
+  margin-left: 140vw;
+  margin-top: 2.093vw;
+  width: 11.395vw;
+  height: 2.093vw;
+}
+.image_5 {
+  margin-left: 97.442vw;
+  margin-top: 6.512vw;
+  width: 50.465vw;
+  height: 12.093vw;
+}
+.group {
+  margin-top: 4.186vw;
+}
+.space-x-20 > *:not(:first-child) {
+  margin-left: 4.651vw;
+}
+.image_7 {
+  margin-left: 98.372vw;
+  margin-top: 0.698vw;
+  width: 46.279vw;
+  height: 20.233vw;
+}
+.image_6 {
+  width: 47.209vw;
+  height: 20.698vw;
+}
+.group_2 {
+  margin-top: 3.721vw;
+  padding: 0 77.674vw;
+}
+.image-wrapper {
+  width: 49.767vw;
+}
+.view_2 {
+  margin-top: 0.93vw;
+}
+.image_9 {
+  width: 47.674vw;
+  height: 20vw;
+}
+.group_3 {
+  padding: 0 0.93vw;
+}
+.text-wrapper {
+  margin-left: 9.302vw;
+  padding: 3.721vw 0 14.884vw;
+  /* background-image: url('../images/bg-导航栏牛逼.png'); */
+  background-size: 70% 70%;
+  background-repeat: no-repeat;
+  width: 38.837vw;
+  height: 21.163vw;
+}
+.text {
+  color: #000000;
+  font-size: 3.488vw;
+  font-family: Inter;
+  line-height: 2.558vw;
+}
+.image_10 {
+  margin-left: -48.372vw;
+  margin-bottom: 1.163vw;
+  width: 10.698vw;
+  height: 10.698vw;
+}
+.view {
+  margin-left: 0.93vw;
+}
+.image_8 {
+  width: 49.767vw;
+  height: 20.698vw;
+}
+.image_11 {
+  margin-top: 3.488vw;
+  width: 48.14vw;
+  height: 21.163vw;
+}
+.group_4 {
+  margin-top: 4.186vw;
+  padding: 0 77.442vw;
+}
+.image_12 {
+  margin-left: 0.93vw;
+  width: 46.977vw;
+  height: 20.465vw;
+}
+.image_13 {
+  margin-left: 3.023vw;
+  width: 49.07vw;
+  height: 20.233vw;
+}
+.nav{
+  font-size: 0px;
+  height: 10vh;
+}
+.nav img{
+width: 20%;
+height: 100%;
+
+}

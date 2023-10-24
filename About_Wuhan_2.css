@@ -1,0 +1,37 @@
+.page {
+  background-color: #d5d5d5;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.section {
+  padding: 8.605vw 0 3.721vw;
+  background-image: url('../images/556a0d72d4a12d33b5ef3044e581832e.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.space-y-50 > *:not(:first-child) {
+  margin-top: 9vw;
+}
+.image {
+  width: 87.674vw;
+  height: 8.14vw;
+}
+.image_2 {
+  width: 99.302vw;
+  height: 160.233vw;
+}
+.image_3 {
+  width: 100vw;
+  height: 12.791vw;
+}
+.nav{
+  font-size: 0px;
+  height: 10vh;
+}
+.nav img{
+width: 20%;
+height: 100%;
+
+}
